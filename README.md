@@ -3,8 +3,8 @@
 
 
 - I'm currently working on my portfolio and some other projects
-- I'm learning C#, Flutter and Kotlin
-- My hobbies are coding, playing music, hanging out, photgraphy, exercising and videogames
+- Learning C#, Flutter and Kotlin
+- My hobbies are :computer: coding,:musical_note: playing instruments,:camera: photgraphy, :martial_arts_uniform: sports and :video_game: videogames 
 
 
 ![Profile views](https://gpvc.arturio.dev/KelvinJ1)  
@@ -39,3 +39,6 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KelvinJ1&show_icons=true)  
+
+***
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinJ1)](https://github.com/anuraghazra/github-readme-stats)
