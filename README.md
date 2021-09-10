@@ -20,9 +20,9 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg' width='40px'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg' width='40px'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg' width='40px'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg' width='40px'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width='40px'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' width='40px'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg' width='40px'> 
+
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width='40px'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' width='40px'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg' width='40px'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg' width='40px'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg' width='40px'>
