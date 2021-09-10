@@ -1,5 +1,5 @@
 ### Hi there, I'm Kelvin 👋
-#### I am a Colombian Mechatronic engineering student that interested in software dev.
+#### I am a Colombian Mechatronic engineering student interested in software dev.
 
 
 - I'm currently working on my portfolio and some other projects
