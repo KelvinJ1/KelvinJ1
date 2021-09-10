@@ -3,7 +3,7 @@
 
 
 - I'm currently working on my portfolio and some other projects
-- Learning C#, Flutter and Kotlin
+- Learning C#, Flutter
 - My hobbies are :computer: coding,:musical_note: playing instruments,:camera: photgraphy, :martial_arts_uniform: sports and :video_game: videogames 
 
 
