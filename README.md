@@ -1,8 +1,6 @@
 ### Hi there, I'm Kelvin 👋
 #### I am a Colombian Mechatronic engineering student interested in software dev.
 
-
-- I'm currently working on my portfolio.
 - Learning Flutter
 - My hobbies are :computer: coding,:musical_note: playing instruments,:camera: photgraphy, :martial_arts_uniform: sports and :video_game: videogames 
 
