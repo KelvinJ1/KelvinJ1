@@ -1,8 +1,7 @@
 ### Hi there, I'm Kelvin 👋
-#### I am a Colombian Mechatronic engineering student interested in software dev.
+#### I am a Colombian Mechatronic engineering student interested in software development and data analysis
 
-- Learning Flutter
-- My hobbies are :computer: coding,:musical_note: playing instruments,:camera: photgraphy, :martial_arts_uniform: sports and :video_game: videogames 
+- My hobbies are :computer: coding,:musical_note: playing instruments,:camera: photgraphy, :martial_arts_uniform: sports
 
 
 ![Profile views](https://gpvc.arturio.dev/KelvinJ1)  
