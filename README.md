@@ -1,8 +1,6 @@
 ### Hi there, I'm Kelvin 👋
 #### I am a Colombian Mechatronic engineering student interested in software development and data analytics
 
-
-![Profile views](https://gpvc.arturio.dev/KelvinJ1)  
 ***
 
 ## Languages/ Tools / Skills
