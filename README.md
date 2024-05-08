@@ -1,5 +1,5 @@
 ### Hi there, I'm Kelvin 👋
-#### I am a Colombian Mechatronic engineering student interested in software development and data analytics
+#### I am a Colombian Mechatronic engineer interested in software development, electronics, IoT, data and AI
 
 ***
 
@@ -23,8 +23,6 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' width='40px'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg' width='40px'>
 
-- English :star::star::star::star:
-- Portuguese :star::star::star:
 
 ***
 
