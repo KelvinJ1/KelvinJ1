@@ -103,7 +103,7 @@ Currently working on:
 
 # 🌎 Connect With Me
 
-- LinkedIn: [www.linkedin.com/in/kelvin-pozuelo](https://www.linkedin.com/in/kelvin-pozuelo-data-science-ai-engineering/)
+- LinkedIn: [Kelvin Pozuelo](https://www.linkedin.com/in/kelvin-pozuelo-data-science-ai-engineering)
 - Based in Colombia 🇨🇴
 
 ---
