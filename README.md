@@ -39,6 +39,8 @@ Currently working on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yolo/yolo-original.svg" width="42px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42px"/>
 </p>
 
 - OpenAI APIs
@@ -59,7 +61,6 @@ Currently working on:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="42px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="42px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42px"/>
@@ -69,20 +70,18 @@ Currently working on:
 ## Backend & Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" width="42px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="42px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="42px"/>
 </p>
 
 ---
 
 # 🤖 IoT / Robotics / Industry 4.0
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="42px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="42px"/>
-</p>
 
 - Embedded Systems
 - Industrial Automation
@@ -95,11 +94,6 @@ Currently working on:
 
 # 📈 GitHub Stats
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KelvinJ1&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinJ1&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KelvinJ1&theme=tokyonight&hide_border=true"/>
@@ -109,8 +103,7 @@ Currently working on:
 
 # 🌎 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/kelvin-pozuelo
-- Portfolio: Coming Soon
+- LinkedIn: [www.linkedin.com/in/kelvin-pozuelo](https://www.linkedin.com/in/kelvin-pozuelo-data-science-ai-engineering/)
 - Based in Colombia 🇨🇴
 
 ---
